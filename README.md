@@ -36,7 +36,7 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarkan:
 3. **Peringkat Alternatif:**
    - Diurutkan berdasarkan nilai `V` dari yang tertinggi ke terendah.
 
----
+
 
 ## 📄 Contoh Output
 
