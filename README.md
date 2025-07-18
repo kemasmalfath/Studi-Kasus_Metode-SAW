@@ -8,7 +8,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarkan:
 - **Cash (uang tunai)** — *semakin besar semakin baik (benefit)*
 - **Asset (aset)** — *semakin besar semakin baik (benefit)*
-- **Age (usia)** — *semakin kecil semakin baik (cost)*
+- **Age (usia)** — *semakin kecil semakin baik (cost)
 
 
 
