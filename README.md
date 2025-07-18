@@ -63,7 +63,7 @@ data = {
 }
 ```
 
----
+
 
 ## ▶️ Cara Menjalankan
 
