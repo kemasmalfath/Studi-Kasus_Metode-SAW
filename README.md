@@ -40,7 +40,7 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarkan:
 
 ## 📄 Contoh Output
 
-```
+
 ===== HASIL PERHITUNGAN SAW =====
 1. Cici: V = 0.924
 2. Andi: V = 0.837
