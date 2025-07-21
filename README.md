@@ -46,7 +46,7 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarkan:
 2. Andi: V = 0.837
 3. Budi: V = 0.800
 4. Dedi: V = 0.645
-```
+
 
 
 
