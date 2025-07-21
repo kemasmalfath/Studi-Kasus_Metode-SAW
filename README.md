@@ -48,7 +48,7 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarkan:
 4. Dedi: V = 0.645
 ```
 
----
+
 
 ## 🗂 Struktur Data
 
