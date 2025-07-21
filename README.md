@@ -80,7 +80,7 @@ data = {
 
 - Metode SAW (Simple Additive Weighting) – Metode pengambilan keputusan multikriteria berbasis pembobotan dan normalisasi.
 
----
+
 
 ## 🧑‍💻 Author
 
