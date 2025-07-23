@@ -3,7 +3,7 @@ import numpy as np
 # Data
 data = {
     "Andi": {"cash": 100, "asset": 500, "age": 35},
-    "Budi ": {"cash": 200, "asset": 300, "age": 40},
+    "Budi": {"cash": 200, "asset": 300, "age": 40},
     "Cici": {"cash": 150, "asset": 700, "age": 28},
     "Dedi": {"cash": 50, "asset": 200, "age": 45}
 }
