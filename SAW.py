@@ -6,7 +6,7 @@ data = {
     "Budi": {"cash": 200, "asset": 300, "age": 40},
     "Cici": {"cash": 150, "asset": 700, "age": 28},
     "Dedi": {"cash": 50, "asset": 200, "age": 45}
-
+}
 
 # Bobot
 weights = {"cash": 0.3, "asset": 0.4, "age": 0.3}
