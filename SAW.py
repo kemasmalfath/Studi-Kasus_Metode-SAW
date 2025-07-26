@@ -32,7 +32,7 @@ for name in data:
 # Ranking
 ranking = sorted(data.items(), key=lambda x: x[1]["V"], reverse=True)
 
-# Output
+# Output.
 print("===== HASIL PERHITUNGAN SAW =====")
 for i, (name, attr) in enumerate(ranking, start=1):
     print(f"{i}. {name}: V = {attr['V']:.3f}")
