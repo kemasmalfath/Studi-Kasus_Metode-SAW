@@ -84,4 +84,4 @@ data = {
 
 ## 🧑‍💻 Author
 
-Script ini disusun sebagai latihan pengambilan keputusan berbasis kriteria dengan Python dan metode SAW.
+Script ini disusun sebagai latihan pengambilan keputusan berbasis kriteria dengan Python dan metode SAW
