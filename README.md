@@ -10,7 +10,6 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarkan:
 - **Asset (aset)** — *semakin besar semakin baik (benefit)*
 - **Age (usia)** — *semakin kecil semakin baik (cost)
 
-
 ## 🧮 Bobot Kriteria
 
 | Kriteria | Bobot |
