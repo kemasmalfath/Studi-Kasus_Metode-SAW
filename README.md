@@ -11,7 +11,6 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarkan:
 - **Age (usia)** — *semakin kecil semakin baik (cost)
 
 
-
 ## 🧮 Bobot Kriteria
 
 | Kriteria | Bobot |
