@@ -18,7 +18,6 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarkan:
 ---
 ## 🧠 Metodologi
 
-
 1. **Normalisasi Nilai:**
    - **Cash & Asset**: `nilai / nilai maksimum`
    - **Age**: `nilai minimum / nilai`
