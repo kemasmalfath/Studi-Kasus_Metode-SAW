@@ -15,6 +15,7 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarkan:
 | Asset    | 0.4    |
 | Age      | 0.3    |
 
+
 ---
 ## 🧠 Metodologi
 
