@@ -15,7 +15,7 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarka
 | Age      | 0.3    |
 
 
----
+-
 ## 🧠 Metodologi
 
 1. **Normalisasi Nilai:**
