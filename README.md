@@ -7,7 +7,7 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarka
 - **Asset (aset)** — *semakin besar sembaik (b
 - **Age (usia)** — *
 ## 🧮 Bobot Kriteria
-| Kriteria | Bobot |
+| Kriteria | Bobot
 |----------|--------
 | Cash     | 0.3    
 | Asset    | 0.4    |
