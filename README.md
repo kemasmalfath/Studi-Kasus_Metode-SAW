@@ -5,7 +5,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarka
 - **Cash (uang tunai)** — *semakin bes sbaik (benef
 - **Asset (aset)** — *semakin besar sembaik (b
-- **Age (usia)** — *se
+- **Age (usia)** — *
 ## 🧮 Bobot Kriteria
 | Kriteria | Bobot |
 |----------|--------
