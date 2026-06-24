@@ -6,7 +6,7 @@ Menilai dan merangking beberapa orang (Andi, Budi, Cici, Dedi) berdasarka
 - **Cash (uang tunai)** — *semakin bes sbaik (ben
 - **Asset (aset)** — *semakin besar sembaik (b
 - **Age (usia)** — *
-## 🧮 Bobot Kriteria
+## 🧮 Bobot Kriter
 | Kriteria | Bobot
 |----------|--------
 | Cash     | 0.3    
