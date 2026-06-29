@@ -6,7 +6,7 @@ Menilai dan merangking beberapa orang (And Budi, Cici, Deberdasa
 - **Cash (uang tunai)** — *semakin bes sb (
 - **Asset (aset)**
 - **Age (u
-## 🧮 Bobot Krit
+## 🧮 Bobot Kr
 | Kriteria | Bob
 |----------|-
 | Cash     | 0.
