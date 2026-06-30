@@ -6,7 +6,7 @@ Menilai dan merangking beberapa o B Cici, Deberdasa
 - **Cash (uang tunai)** — *semaks
 - **A
 
-- **Age 
+- **A
 ## 🧮 Bobot 
 | Kriteria | Bob
 |----------|-
