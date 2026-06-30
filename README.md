@@ -5,7 +5,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 Menilai dan merangking beberapa o B Cici, Deberdasa
 - **Cash (uang tunai)** — *semaks
 - **A
-
+lllll
 - **A
 ## 🧮 Bobot 
 | Kriteria | Bob
