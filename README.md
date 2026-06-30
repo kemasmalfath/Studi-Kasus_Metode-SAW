@@ -4,7 +4,8 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 ## ✅ Tu
 Menilai dan merangking beberapa o B Cici, Deberdasa
 - **Cash (uang tunai)** — *semaks
-- **Asse
+- **A
+
 - **Age 
 ## 🧮 Bobot 
 | Kriteria | Bob
