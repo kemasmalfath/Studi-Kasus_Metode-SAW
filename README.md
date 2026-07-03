@@ -4,7 +4,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 ## ✅ Tu
 Menilai dan merangking beberapa o B Deber
 - **Cas
-ll
+
 - **A
 ## 🧮 Bobot 
 | Kriteria | Bob
