@@ -6,7 +6,7 @@ Menilai dan merangking beberapa o B Deber
 - **Cas
 
 - **A
-## 🧮 Bo
+## 🧮
 | Kriteria | Bob
 |----------|-
 | Cash     | 0.
