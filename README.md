@@ -2,7 +2,7 @@ lll# 📊 Perhitungan SAW (Simple Additive Weightin
 
 Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarkan metode **SAW (Simple Additive Weighting)**. W adalah salah satu metode ngambilan keputusmultikriteria (MCDM) yang umum digunakan untuk menilai beberapa alternatif berdasarkan sejumla\\\h kriteri
 ## ✅ Tu
-Menilai dan merangking beberapa o B Dr
+Menilai dan merangking beberapa o B
 - **Cas
 
 - **A
