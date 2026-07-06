@@ -10,7 +10,7 @@ Menilai dan
 |----------|-
 | Cash     | 0.
 | Asset    | 0.4    |
-| Age      | 0.3   
+| Age      | 0
 
 -
 ## 🧠 Metodologi
