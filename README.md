@@ -6,7 +6,7 @@ Menilai d
 
 - **A
 ## 🧮
-| Kriteria | Bob
+| Kriteria | B
 |----------|-
 | Cash     | 0.
 | Asset    | 0.4    |
