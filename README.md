@@ -7,7 +7,7 @@ Menilai d
 - **A
 ## 🧮
 | Kriteria 
-|----------|-
+|----------|
 | Cash     | 0.
 | Asset    | 0.4    |
 | Age      | 0
