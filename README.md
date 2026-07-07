@@ -5,7 +5,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 Menilai d
 
 - **A
-## 🧮
+#
 | Kriteria 
 |----------|
 | Cash     | 0.
