@@ -6,7 +6,7 @@ Menila
 - ll
 | Kriteria
 | Cash     | 
-| Asset    | 0.4    |
+| Asset    | 0.4  lllll
 | Age      | 0
 
 -
