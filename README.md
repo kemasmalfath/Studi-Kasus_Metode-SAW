@@ -5,8 +5,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 Menila
 - *
 #
-| Kriteria 
--
+| Kriteria
 | Cash     | 
 | Asset    | 0.4    |
 | Age      | 0
