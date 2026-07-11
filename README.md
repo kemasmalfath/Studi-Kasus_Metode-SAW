@@ -5,7 +5,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 Me
 - ll
 | Kriteria
-| Cash     | 
+| Cash    
 | Asset    | 0.4  lllll
 | Age      | 0
 
