@@ -6,7 +6,7 @@ Me
 -
 | Kriter
 | Cash    
-| Asset    | 0.4  lllll
+| Asset    | 0.4  lll
 | Age      | 0
 
 -
