@@ -9,7 +9,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 -
 ## 🧠 Metodolo
 1. **Normalisa
-   - **Cash & Asset**: `nilai / nilaksim
+   - **Cash & Asset**: `nilai / nilaks
    - **Age**: `nilai minimum / nilai`
 
 2. **Hitung Nilai V (skor akhir):**
