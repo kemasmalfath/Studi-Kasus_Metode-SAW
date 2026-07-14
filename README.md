@@ -4,7 +4,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 | Kr
 | Cash    
 | Asset    | 0.4  lll
-| Age      | 0
+| Age      | 
 
 -
 ## 🧠 Metodolo
