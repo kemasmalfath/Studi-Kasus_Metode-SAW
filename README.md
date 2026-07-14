@@ -6,7 +6,6 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdasarka
 | Asset    | 0.4  lll
 | Age      | 
 
--
 ## 🧠 Metodolo
 1. **Normalisa
    - **Cash & Asset**: `nilai / ni
