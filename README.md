@@ -4,7 +4,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 | Kr
 | Cash    
 | Asset    | 0.4  l
-| Age      | 
+| Age    
 
 ## 🧠 Metodol
 1. **Nor
