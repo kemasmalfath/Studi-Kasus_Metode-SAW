@@ -7,7 +7,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 | Age      | 
 
 ## 🧠 Metodol
-1. **Normal
+1. **Nor
    - **Cash & Asset**: `nilai / ni
    - **Age**: `nilai minimum / nila
 
