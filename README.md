@@ -9,9 +9,8 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 ## 🧠 Metodol
 1. **Nor
    - **Cash & Asset**: `nilai /
-   - **Age**: `nilai minimum / ni
-
-2. **Hitung Nilai V (skor akhir):**
+   - **Age**: `nilai minimum / 
+2. **Hitung Nilai V (skor akhir):**l
    ```
    V = (w_cash × norm_cash) + (w_asset × norm_asset) + (w_age × norm_age)
    ```
