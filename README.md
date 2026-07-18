@@ -6,7 +6,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 | Asset    | 0.
 | A
 
-## 🧠 Meto
+## 🧠 Me
 1. **N
    - **Cash & Asset*
    - **Age**: `nilai minimu
