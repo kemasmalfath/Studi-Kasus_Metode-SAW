@@ -8,7 +8,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 
 ## 🧠 Meto
 1. **N
-   - **Cash & Asset**: 
+   - **Cash & Asset*
    - **Age**: `nilai minimu
 2. **Hitung Nilai V (skor akh
    ```
