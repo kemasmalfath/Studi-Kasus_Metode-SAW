@@ -6,6 +6,10 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 | Asset    |
 ## 🧠 Me
 1
+
+
+
+
    - **Cash & Ass
    - **Age**: `nilai mi
 2. **Hitung Nilai V (skor a
