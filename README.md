@@ -7,7 +7,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 | A
 
 ## 🧠 Me
-1. **N
+1
    - **Cash & Ass
    - **Age**: `nilai mi
 2. **Hitung Nilai V (skor a
