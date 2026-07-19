@@ -4,7 +4,6 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 | Kr
 | Ca
 | Asset    | 0.
-| A
 
 ## 🧠 Me
 1
