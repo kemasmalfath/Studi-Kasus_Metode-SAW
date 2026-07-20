@@ -8,7 +8,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 1
 l
    - **Cash & 
-   - **Age**: `nilai mi
+   - **Age**: `nilai minn
 2. **Hitung Nilai V (sk
    
    V = (w_cash × norm_cash) + (w_ass × norm_asset) + (w_age × norm_age)
