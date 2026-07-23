@@ -12,9 +12,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
   
 
 3. **Peringkat Alternatif:**
-   - Diurutkan berdasarkan nilai `V` dari yang tertinggi ke terendah.
-
-
+   - Diurutkan berdasarkan nilai `V` dari yang tertinggi ke terend
 
 ## 📄 Contoh Output
 
