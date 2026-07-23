@@ -8,7 +8,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
    - **Ca
    - **Age**: `n
 2. **Hitung Nilai V (skll
-   V = (w_cash × norm_cash) + (w_ass × norm_asset) + (w_age × norm_age)
+   V = (w_cash × norm_cash) + (w_ass × norm_asset) + (w_age × norm_
   
 
 3. **Peringkat Alternati
