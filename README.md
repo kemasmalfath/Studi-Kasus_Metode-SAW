@@ -1,6 +1,6 @@
 ubgghuhuiiiiiuuuuuuhhhlllllll# 📊 Perhitungan SAW (Simple Additive Weightin
 
-Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan metode **SAW (Simple Additive Weighting)**. W adalah salah satu metode ngambilan keputusmultikrit (MCD) yang umum nan untu
+Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan metode **SAW (Simple Additive Weighting)**. W adalah salah satu metode ngambilan keputusmultikrit (MCD) yang umum nan u
 | Kr
 | C
 | Asset    |
