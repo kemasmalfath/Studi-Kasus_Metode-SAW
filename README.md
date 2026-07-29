@@ -5,7 +5,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 |Cl
 | Asset    |
 
-   - **Ca
+   - **Cacc
    - **Age**: 
 2. **Hitung Nilai V (sk
    V = (w_cash × norm_cash) + (wbbb
