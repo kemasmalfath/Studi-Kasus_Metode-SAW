@@ -11,7 +11,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
    V = (w_cash × norm_cash) + (wbbb
 bblnjjnhhhljsisinjjjjuxxxxx
 3. **Peringkat Alternatnjjjnnjkdkdxd
-   - Diurutkan berdasarkan nilai `V` dkis yang tertinggi ke terend
+   - Diurutkan berdasarkan nilai `V` dkis yang tertinggi ke tere
 
 ## 📄 Contoh Output
 
