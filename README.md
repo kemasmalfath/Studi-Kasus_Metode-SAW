@@ -10,7 +10,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 2. **Hitung Nilai V (skhhhf
    V = (w_cash × norm_cash) + (wbbbc
 
-3. **Peringkat Alternatnjjjnnjkdxdnnnjjjjji
+3. **Peringkat Alternatnjjjnnjkdxdnnnjji
    - Diurutkan berdasarkan nilai  dkhllllhhis yang tertinggi ke terllljjjih
 
 ## 📄 Contoh Output
