@@ -13,9 +13,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 3. **Peringkat Alternatnjjjnnjkdxdnnnjji
    - Diurutkan berdasarkan nilai  dkhllllhhis yang tertinggi ke terllljjjih
 
-## 📄 Contoh Output
-
-
+## 📄 Contoh Ou
 ===== HASIL PERHITUNGAN SAW =====
 1. Cici: V = 0.924
 2. Andi: V = 0.837
