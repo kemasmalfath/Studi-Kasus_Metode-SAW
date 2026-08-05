@@ -7,7 +7,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 
    - **Caccfccfff
    - **Age**: xxhhhhlll
-2. **Hitung Nilai V (bh
+2. **Hitung Nilai V (bhxff
    V = (w_cash × norm_cash) + (wbbbclfff
 3. **Peringkat Alternatnjjjnnjkdxdnnnjjnnfffnji
    - Diurutkan berdasarkan nilai  dkhllllhhis yang tertinggi ke terllljjjih
