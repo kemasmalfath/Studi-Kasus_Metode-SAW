@@ -11,7 +11,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
    V = (w_cash × norm_cash) + (wbbbclfffl
 3. **Peringkat Alternatnjjjnnjkdxdnjjjj
    - Diurutkan berdasarkan nil dkllffflffflhhis yang tertinggi ke terllljjjihdjjdjdjdjjjdjdjd
-dhhddnjdjdj
+dhhddnjdjdjduudud
 ## 📄 Contoh Oundjjfd
 ===== HASIL PERHITUNGAN SAW ==
 1. Cici: V = 0.924
