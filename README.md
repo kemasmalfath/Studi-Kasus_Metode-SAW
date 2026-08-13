@@ -9,7 +9,7 @@ kwkkwke
    - **Age**: ll
 2. **Hitung Nilai V (bhxffcfnnfnf
    V = (w_cash × norm_cash) + (wbbkdkdk
-3. **Peringkat Alternatnjjjnnjkdxdnjjjj
+3. **Peringkat Alternatnjjjnnjkdxdnjjffoofjj
    - Diurutkan berdasarkan nil dkllfffls g tertinggi ke tedj
 dhhddnjdjdjd
 ## 📄 Contoh Oundjjfd
