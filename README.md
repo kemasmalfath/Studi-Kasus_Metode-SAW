@@ -11,7 +11,7 @@ kwkkwke
    V = (w_cash × norm_cash) + (wbbkdkdk
 3. **Peringkat Alternatnjjjnnjkdxdnjjjj
    - Diurutkan berdasarkan nil dkllfffls g tertinggi ke tedj
-dhhddnjdjdjduu
+dhhddnjdjdjd
 ## 📄 Contoh Oundjjfd
 ===== HASIL PERHITUNGAN SAW ==
 1. Cici: V = 0.924
