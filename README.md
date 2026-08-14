@@ -8,7 +8,7 @@ kwkkwkeffffff
    - **Caccfcccjii
    - **Age**: ll
 2. **Hitung Nilai V (bhxffcfnnfnffff
-   V = (w_cash × norm_cash) + (wbbkdkdoffok
+   V = (w_cash × norm_cash) + (
 3. **Peringkat Alternatnjjjnnjkdxdnjjffoofjj
    - Diurutkan berdasarkan nil dfls g tertinggi ke tedj
 dhhddnjdjdjd
