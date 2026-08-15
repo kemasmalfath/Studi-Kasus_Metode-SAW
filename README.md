@@ -10,7 +10,7 @@ kwkkwkeffffff
 2. **Hitung Nilai V (bhxffcfnn
    V = (w_cash × norm_cash) + (
 3. **Peringkat Alt
-   - Diurutkan berdasarkan nil dfls g tertinggi ke tedj
+   - Diurutkan berdasarkan nil dfls g tertinggi ke 
 dhhddnjdjdjd
 ## 📄 Contoh Oundjjfd
 ===== HASIL PERHITUNGAN SAW ==
