@@ -8,7 +8,7 @@ kwkkwkeff
    - **Caccfcccjii
    - **Age**: ll
 2. **Hitung Nilai llsksos
-   V = (w_cash × norm_cash) + (
+   V = (w_cash × norm_cash) + (jejek
 3. **Peringkat Alt
    - Diurutkan berdasarkan nil dfls g terggi ke 
 dhhddnjdjdjd
