@@ -10,7 +10,7 @@ kwkkwkeff
 2. **Hitung Nilai llsksos
    V = (w_cash × norm_cash) + (jejek
 3. **Peringkat Altididi
-   - Diurutkan berdasarkan nil dfls g terggi ke 
+   - Diurutkan berdasarkan nil dfls g terggjdjkddi ke 
 dhhddnjdjdjd
 ## 📄 Contoh Oundjjfd
 ===== HASIL PERHITUNGAN SAW ==
