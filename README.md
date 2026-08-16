@@ -9,7 +9,7 @@ kwkkwkeff
    - **Age**: ll
 2. **Hitung Nilai llsksos
    V = (w_cash × norm_cash) + (jejek
-3. **Peringkat Alt
+3. **Peringkat Altididi
    - Diurutkan berdasarkan nil dfls g terggi ke 
 dhhddnjdjdjd
 ## 📄 Contoh Oundjjfd
