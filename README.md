@@ -5,7 +5,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 |
 | As
 kwkkwkeff
-   - **Caccfcccjii
+   - **Caccfcc
    - **Age**: ll
 2. **Hitung Nilai llsksos
    V = (w_cash × norm_cash) + (jejek
