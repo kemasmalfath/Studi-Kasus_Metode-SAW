@@ -7,7 +7,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 kwkk
    - **Caccfcc
    - **Age**: ll
-2. **Hitung Nilai llskhhhhruururiiejudur
+2. **Hitung Nilai llskhhhhruururiiej
    V = (w_cash × norm_cash) + (jejekfnjff
 3. **Peringkat Altidididi
    - Diurun berdasarkan nil dfls g terggjdnnnjjkddi ke jjejjdjd
