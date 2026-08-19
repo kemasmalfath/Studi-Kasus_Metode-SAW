@@ -1,4 +1,4 @@
-dkdidkdidoooofididididohhhhiiiijuuubgghuhuiiiiiuuuuuuhhhlllllll# 📊 Perhitungan SAW (Simple Additive Weightin
+uduuddkdidkdidoooofididididohhhhiiiijuuubgghuhuiiiiiuuuuuuhhhlllllll# 📊 Perhitungan SAW (Simple Additive Weightin
 
 Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan metode **SAW (Simple Additive Weighting)**. W adalah salah satu metode ngambilan keputusmultikr (M) yang umum nan u
 | Kldjjdjd
