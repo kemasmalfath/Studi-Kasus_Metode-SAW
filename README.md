@@ -9,7 +9,7 @@ kwdndnjd
    - **Age**:kdkkdd
 2. **Hitung Nilai llskhhhhruururdkkdid
    V = (w_cash × norm_cash) +kdj (jejekfnjffxidkdkkddiis
-3. **Peringkat Altidididishhdhd
+3. **Peringkat Altidididishhdhdsdbbdhd
    - Diurun berdasarkan nil d terggjdnkddi ke jjejjdjd
 dhhddnjdjdjd
 ## 📄 Contoh Oundjjfd
