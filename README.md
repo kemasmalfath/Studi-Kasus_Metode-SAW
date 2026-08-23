@@ -10,7 +10,7 @@ kwdndnjd
 2. **Hitung Nilai llskhhhhruururdkkdid
    V = (w_cash × norm_cash) + (jejekfnjffxidkdkkddiis
 3. **Peringkat Altidididishhdhdsdbbdhd
-   - Diurun berdasarkan nil d terggjdnkddi ke jjejjdjd
+   - Diurun berdasarkan nil d terggjdnkdbhjdi ke jjejjdjd
 dhhddnjdjdjdvbb
 ## 📄 Contoh Oundjjfd
 ===== HASIL PERHITUNGAN SAW ==
