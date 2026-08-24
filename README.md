@@ -8,7 +8,7 @@ kwd
    - **Caccfcc
    - **Age**:kjhhj
 2. **Hitung Nilai llskhhhhruururdkkdidhdhhffhnfjf
-   V = (w_cash × norm_ca (jejekfnjffxidkdkkddiis
+   V = (w_cash × norm_ca (jejekfnjffxidkdkkddiiscjjvjc
 3. **Peringkat Altidididishhdhdsdbb
    - Diurun berdasarkan nil d terggjdnkdbhjdi ke jjejjdjd
 dhhddnjdjdjdvbb
