@@ -4,7 +4,6 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 | Kl
 |bdh
 | As
-kwdhhhl
    - **Caccfcc
    - **Age**:kjhhj
 2. **Hitung Nilai llskhhhhru
