@@ -8,7 +8,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 2. **Hitung Nilai
    V = (w_cash × norm_cad (jejekfnjffxidkdkkdd
 3. **Peringkat Altidididis
-   - Diurun berdasarkan nil d tergghjdi vvvvhbvbvgke jjejjdjd
+   - Diurun berdasarkan nil d terggh vvvvhbvbvgke jjejjdjd
 dhhddnjdjdjdvbbvggh
 ## 📄 Contoh Oundjjfd
 ===== HASIL PERHITUNGAN SAW ==
