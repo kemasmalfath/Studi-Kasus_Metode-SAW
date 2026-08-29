@@ -3,7 +3,7 @@ uhhhuhhhhjsjiddjjdjjfjrkiririjfkfkfifiifiiiuiidhhdhddjjdjdjdididdiididjdjdjdidii
 Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan metode **SAW (Simple Additive Weighting)**. W adalah salah satu metode ngambilan keputusmultikr (M) yang umum nan
 |bdjjkhhhjjjj
 | Ashsudjs
-   - **Caccfccjjj
+   - **Caccfc
    - **Age**:jjjj
 2. **Hitung Nilai
    V = (w_cash × norm_cad (jejekfnjffxidkdkkdd
