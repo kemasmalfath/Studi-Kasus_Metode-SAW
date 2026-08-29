@@ -8,7 +8,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
 2. **Hitung 
    V = (w_cash × nor
 3. **Peringkat Alti
-   - Diurun berdasarkan nil d terggh vvvvhbvbvgke jjejjdjd
+   - Diurun berdasarkan nil d tergghjjkk vvvvhbvbvgke jjejjdjd
 dhhddnjdjdjdvbbvggh
 ## 📄 Contoh Oundjjfd
 ===== HASIL PERHITUNGAN SAW ==
