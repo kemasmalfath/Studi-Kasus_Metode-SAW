@@ -6,7 +6,7 @@ Script Python ini digunakan untuk menghitung dan menentukan peringkat berdarkan 
    - **Caccll
    - **Agell
 2. **Hitung 
-   V = (w_cash × norm_cad (jejekfnjffxidd
+   V = (w_cash × norm_cad (jejekfnjf
 3. **Peringkat Altididll
    - Diurun berdasarkan nil d terggh vvvvhbvbvgke jjejjdjd
 dhhddnjdjdjdvbbvggh
