@@ -7,7 +7,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
    - **Agell
 2. **Hi
    V = (w_cash × nor
-3. **Peringkat Altijjjjj
+3. **Peringkat Altijjjjml
    - Diurun berdasarkan nil d tergghjjkk vvvvhbvbvgke jjejjbbh
 dhhddnjdjdjdvbbv
 ## 📄 Contoh Oundj
