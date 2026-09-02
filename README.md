@@ -8,7 +8,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 2. **Hi
    V = (w_cash × nor
 3. **Peringkat Altijjjjml
-   - Diurun berdasarkan nil d tergghj vvvvhbvbvgke jjejjbbh
+   - Diurun berdasarkan nil d tergghj vvvvhbvbvgke jjej
 dhhddnjdjdjd
 ## 📄 Contoh Oundj
 ===== HASIL PERHITUNGAN SAW
