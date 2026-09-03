@@ -13,7 +13,7 @@ dhhddnjdejjej
 ## 📄 Contoh Oundj
 ===== HASIL PERHITUNGAN SAW
 1. Cici: V = 0.
-2. Andi: V = 0.837
+2. Andi: V = 0.837jejdj
 3. Budi: V = 0.800
 4. Dedi: V = 0.645
 
