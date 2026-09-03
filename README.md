@@ -12,7 +12,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 dhhddnjdejjej
 ## 📄 Contoh Oundj
 ===== HASIL PERHITUNGAN SAW
-1. Cici: V = 0.
+1. Cici: V = 0.jdjjd
 2. Andi: V = 0.837jejdj
 3. Budi: V = 0.800
 4. Dedi: V = 0.645
