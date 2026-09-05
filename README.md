@@ -11,7 +11,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
    - Diurun hyuuuhhh
 dhhddnjdejjejhyhhy
 ## 📄 Contoh bbbh
-===== HASIL PERHITUNGAN SAWhhhh
+===== HASIL PERHITUNGAN SAWhhhhhhhhh
 1. Cici: V = 0.jdjjd
 2. Andi: V = 0.837jejdj
 3. Budi: V = 0.800
