@@ -13,7 +13,7 @@ dhhddnjdejjej
 ## 📄 Contoh bbbhgghh
 ===== HASIL PERHITUNGAN SAWhhhhhhhhh
 1. Cici: V = 0.jdjjd
-2. Andi: V = 0.837jejdj
+2. Andi: V = 0.837j
 3. Budi: V = 0.800
 4. Dedi: V = 0.645
 
