@@ -15,7 +15,7 @@ dhhddnjdejjejndnjdj
 1. Cici: V = 0.jdjjddjejejslllll
 2. Andi: V = 0.837j
 3. Budi: V = 0.800
-4. Dedi: V = 0.645
+4. Dedi: V = 0
 
 
 
