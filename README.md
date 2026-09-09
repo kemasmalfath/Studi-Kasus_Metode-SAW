@@ -14,7 +14,7 @@ dhhddnjdejjejnd
 ===== HASIL PERHITUNGAN SAWhs
 1. Cici: V = 0.jdjjddjejejsljdjdjjdjfjf
 2. Andi: V = 0.837jdhhfjf
-3. Budi: V = 0.800
+3. Budi: V = 0.800dhfhhf
 4. Dedi: V = 0
 
 
