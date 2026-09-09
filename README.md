@@ -13,7 +13,7 @@ dhhddnjdejjejnd
 ## 📄 Contoh bbbhsjjndjdjdnnjddnjdj
 ===== HASIL PERHITUNGAN SAWhs
 1. Cici: V = 0.jdjjddjejejsljdjdjjdjfjf
-2. Andi: V = 0.837jdhhfjf
+2. Andi: V = 0.837jdhhfjfdjjfjf
 3. Budi: V = 0.800dhfhhf
 4. Dedi: V = 0
 
