@@ -9,7 +9,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
    V = (w_cash × norc
 3. **Peringkat Altijljdjdjd
    - Diurun hyuuuhhhdnnhjjjbbb
-dhhddnjdejjejndnjdj
+dhhddnjdejjejnd
 ## 📄 Contoh bbbhsjjndjdjdnnjddnjdj
 ===== HASIL PERHITUNGAN SAWhs
 1. Cici: V = 0.jdjjddjejejsl
