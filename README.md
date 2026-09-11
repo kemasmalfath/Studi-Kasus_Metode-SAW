@@ -13,7 +13,7 @@ dhhddnjdej
 ## 📄 Contoh bbbhsjjndjdjdnnjdd
 ===== HASIL PERHITUNGAN Sllll
 1. Cici: V = 0.jdjjddjejejsljdjdjjdjfjf
-2. Andi: V = 0.837jdhhfjfdjjfjf
+2. Andi: V = 0.837jdhhfjfdjj
 3. Budi: V = 0.800dhfhhf
 4. Dedi: V = 0
 
