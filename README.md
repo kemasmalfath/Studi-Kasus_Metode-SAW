@@ -13,7 +13,7 @@ dhhddnjdej
 ## 📄 Contoh bbbhsjjndjdjdnnjdd
 ===== HASIL PERHITUNGAN Shhhh
 1. Cici: V = 0.jdjjddjejejsljdjdjjdjfjf
-2. Andi: V = 0.837jdhh
+2. Andi: V = 0.837jdhhjjjj
 3. Budi: V = 0.800dhfhhfhhhh
 4. Dedi: V = 0
 
