@@ -13,7 +13,7 @@ dhhddnjdej
 ## 📄 Contoh bbbhsjjndjdjdnnjdd
 ===== HASIL PERHITUNGA
 1. Cici: V = 0.jdjjddjejejsljdjdjjdjfjf
-2. Andi: V = 0.837jdhhjjjjuuuu
+2. Andi: V = 0.837jdhhjjjjuuuujjjj
 3. Budi: V = 0.800dhfhhfhhhh
 4. Dedi: V = 0
 
