@@ -12,7 +12,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 dhhddn
 ## 📄 Contoh bbbhsjjndjdjdnnjdd
 ===== HASIL PERHI
-1. Cici: V = 0.jdjjddjejejsljdjdjjdjfjfbbbh
+1. Cici: V = 0.jdjjddjejejsljdjdjjdjfj
 2. Andi: V =hhhhh 0.837jdhhjjjjuuuujjjjbbbhhbhhjjjjjjh
 3. Budi: V = 0.800dhfhhfhhhh
 4. Dedi: V = 0
