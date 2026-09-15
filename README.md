@@ -13,7 +13,7 @@ dhhddn
 ===== HASIL PERHI
 1. Cici: V = 0.jdjjddjejejsljdjdjjd
 2. Andi: V =hhhhh 0.837jdhhjjjjuuuujjjjbbbhhbhhjjjjjjh
-3. Budi: V = 0.800dhfhhfhhhh
+3. Budi: V = 0.800dhfhhf
 4. Dedi: V = 0
 
 
