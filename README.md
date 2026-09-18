@@ -1,7 +1,7 @@
 isiisuhddjjdjdjdididdiididjdjdjdiddfifiifjdufufjdjdjfudhlllllll# 📊 Perhitunganple ve W
 
 Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW (Simple Additive Weighting)**. W adalah salah satu metode ngambilan keputusmultikr (M) yallm nan
-|bdjjkhh
+|bdj
 | As
    - **Cacxxx
 2. llll
