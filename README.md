@@ -12,7 +12,7 @@ dhhddn
 ## 📄 Contoh bbbhs
 ===== 
 1. Cici: V = 0.jdjjddjej
-2. Andi: V =hhhhh 0.837jdhl
+2. Andi: V =hhhhh 0.837j
 3. Budi: V = 0.800dhfhhfjsjjsjjxjjdjdjdjdjjd
 4. Dedi: V = 0jdjjdkd
 
