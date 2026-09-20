@@ -12,7 +12,7 @@ dhhddn
 ## 📄 Contoh bbb
 ===== 
 1. Cici: V = 0.jdjjdd
-2. Andi: V =hhhhh 0.8
+2. Andi: V =hhhhh 0.
 3. Budi: V = 0.800dhfhhfjsjjsjjxjjdjdjdjdjjd
 4. Dedi: V = 0jdjj
 
