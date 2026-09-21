@@ -7,7 +7,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 2. lllljxjjd
    V = (w_cash ×lllll
 3. **Peringkat Alt
-   - Diurun hyuuu
+   - Diurun hyuuundjdj
 dhhddnklll
 ## 📄 Contoh bbb
 ===== lllljzkz
