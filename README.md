@@ -9,7 +9,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 3. **Peringkat Alt
    - Diurun hyuuundjdj
 dhhddnklll
-## 📄 Contoh bbb
+## 📄 Contoh bbbdujdi
 ===== lllljzkz
 1. Cici: V = 0.jdjjdd
 2. Andi: V =hhhhh 0.
