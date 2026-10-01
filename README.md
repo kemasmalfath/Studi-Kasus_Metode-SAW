@@ -13,7 +13,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 2. Andi: V 
 3. Budi: V = 0.
 4. Dedi: V = 0jd
-hhhh
+hhhhvcv
 bsjsjbabhssbbs
 
 ## 🗂 Struktur Data
