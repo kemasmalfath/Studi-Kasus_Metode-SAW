@@ -15,7 +15,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 4. Dedi: V = dllldodids
 hhhhd
 bsjsjbabhsdhjjddjdjaiiai
-dnndjxjjx
+dnnd
 ## 🗂 Struktur Data
 
 Data setiap orang disimpan dalam dictionary seperti berikut:
