@@ -9,7 +9,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
    - Diurun hyuuulll
 ## 📄 Contoh bbbdujl
 ==djjdje
-1. Cici: V 
+1. Cici: V djjjdd
 2. Andi: V hhhg
 3. Budi: V =
 4. Dedi: V = dllldo
