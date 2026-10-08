@@ -8,7 +8,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 3. **Perinlll
    - Diurun hyuuulll
 ## 📄 Contoh bbbdujl
-==
+==djjdje
 1. Cici: V 
 2. Andi: V hhhg
 3. Budi: V =
