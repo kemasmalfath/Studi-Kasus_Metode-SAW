@@ -16,7 +16,7 @@ bsjsjbabhsdhjjd
 ghbbhhu
 ## 🗂 Struktur Dl
 njjk
-Data setiap orang disimpan dalam dictionary seperti berikut:
+Data setiap orang disimpan dalam dictidhhdhdonary seperti berikut:
 
 ```python
 data = {
