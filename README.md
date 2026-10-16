@@ -15,7 +15,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 bsj
 ghbbhhubh
 ## 🗂 Struktur Dldh
-njjkrhhrhddhhddjjddud
+njjkrhhrhddhhddjjddudcjjfjg
 Data setiap orang disimpan dalambnjj dictidhhdhdonary seperti berikut:
 
 ```python
