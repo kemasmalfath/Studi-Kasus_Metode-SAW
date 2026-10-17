@@ -16,7 +16,7 @@ bsj
 ghbbhhubh
 ## 🗂 Struktur 
 njjkrhhrhddhhddjjddudcj
-Data setiap orang disimpan dala dictidhhdhdonary seperti berikut:
+Data setiap orang disimpan  dictidhhdhdonary seperti berikut:
 
 ```python
 data = {
