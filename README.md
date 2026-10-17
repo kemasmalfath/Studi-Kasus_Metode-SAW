@@ -17,7 +17,7 @@ ghbbhhubh
 ## 🗂 Struk
 njjkrhhrhddhhddjjddudcj
 Data setiap orang disimpan  dictidhonary seperti berikut:
-
+xiix
 ```python
 data = {
     "Andi": {"cash": 100, "asset": 500, "age": 35},
