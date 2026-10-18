@@ -14,7 +14,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 4. Ded
 ghbbhhubh
 ## 🗂 Struk
-njjkrhhrhddhhddjjddu
+njjkrhhrhddhhddjjl
 Data setiap orang disimpan  dictidhonary seperti berikut:
 xiix
 ```python
