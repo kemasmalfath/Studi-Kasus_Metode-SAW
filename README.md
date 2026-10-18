@@ -13,7 +13,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 3. Budi: 
 4. Ded
 ghbbhhubh
-## 🗂 Struk
+## 🗂 Str
 njjkrhhrhddhhddjjl
 Data setiap orang disimpan  dictidhonary seperti berikut:
 xiix
