@@ -1,5 +1,5 @@
 xnnxjxuuuisiisuhddjjdjdjdididdiididjdjddjdjfudhlllll
-Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW (Simple Additive Weighting)**. W adalah salatu Mlllll
+Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Simple Additive Weighting)**. W adalah salatu Mlllll
 |bdj
 | Asdjjdjdllll
    - **Cacxxx
