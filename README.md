@@ -6,7 +6,7 @@ Script Python ini digumenghitung dan menentukan peringkat berdarkan metode **SAW
 2. lllljxjjdllll
    V = (w_cash ×ldydyd
 3. **Perin
-   - Diurun hyuuulllllll
+   - Diurun hyuuulll
 ## 📄 
 1. Cici: V djjl
 2. Andi: V hh
