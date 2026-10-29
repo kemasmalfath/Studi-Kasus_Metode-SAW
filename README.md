@@ -14,7 +14,7 @@ Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Sa
 4. Dedeuuslllu
 ghbbhhwhjwjuuu☕️
 ## djjhffjsjieeiieieejdiijdiidir
-njjkrhhrgbhjejjeejejieedjjejejeiieie
+njjkrhjejkeie
 Data setiap orang disimpan  dictidho sbbeidiiierti berikut:
 xiix
 ```python
