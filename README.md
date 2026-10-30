@@ -17,7 +17,7 @@ ghbbhhwhjw
 njjkrhjej
 Data setiap orang disimpan  dictidho sbbeidiiierti berikut:
 xiix
-```python
+```pythonGgshs
 data = {
     "Andi": {"cash": 100, "asset": 500, "age": 35},
     "Budi": {"cash": 200, "asset": 300, "age": 40},
