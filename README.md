@@ -11,7 +11,7 @@ Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Sa
 1. Cici: V d
 2. A
 3. 
-4. Dedeuuslllu
+4. Dedeuusl
 ghb
 ## djjhhajh
 njjkrhjejsghehuejsjjssga
