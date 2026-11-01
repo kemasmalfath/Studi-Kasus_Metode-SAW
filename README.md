@@ -2,7 +2,7 @@ xnnxjxuuuisiisuhddjjdjdjdididdiididjdjddjdjfudhlllll
 Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additive Weighting)**. W adalah salatu Mlllll
 |bdj
 | Asdjjdjdllll
-   - **Ca
+   - **
 2. lllljxjjdllllllll
    V = (w_cash ×ldy
 3. **Pe
