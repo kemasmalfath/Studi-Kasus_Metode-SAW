@@ -7,7 +7,7 @@ Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Sa
    V = (w_cash
 3. **njlllhhh
    - Diughhghhh
-1. Cinjj
+1. Cinjjgghy
 2. Ay
 3. uuuujjj
 4. Dedyyyybhhh
