@@ -1,5 +1,5 @@
 xnnxjxuuuisiisuhddjjdjdjdididdiididjdjddjdjfudhlllll
-Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additive Weighting)**. W adal
+Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additive Weighting)**. W 
 | Asdjjdjdl
    - 
 2. LLLLJXJJDLLLLL
