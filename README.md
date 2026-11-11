@@ -1,6 +1,6 @@
 xnnxjxuuuisiisuhddjjdjdjdididdiididjdjddjdjfudhlllll
 Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additive Weig
-| Asdjjdjdl
+| Asdjj
    - 
 2. LLLLJXJJDLLLLL
    V = (w_cash
