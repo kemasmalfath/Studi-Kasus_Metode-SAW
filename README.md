@@ -12,7 +12,7 @@ Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Sa
 ghfjj
 ## dnfnjgggfjjfjduiif
 njjkrhjejsghehuejsjjcjjjg&jgjk
-Data setiap orang disim dictidhofhuchh sbbeidiiierti ber
+Data setiap orang disim dictidhofhuchhdjkfkf sbbeidiiierti ber
 xiixhs
 ```pythonGgshs
 data = {
