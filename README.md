@@ -13,7 +13,7 @@ ghfjj
 ## dnfnjgggfjjfj
 njjkrhjejsghehuejsjjcjjjg&jgjkgdnjkf
 Data setiap orang disim dictidhofhuchh sbbeidiiierti berikut:
-xiixhshwha
+xiixhs
 ```pythonGgshs
 data = {
     "Andi": {"cash": 100, "asset": 500, "age": 35},
