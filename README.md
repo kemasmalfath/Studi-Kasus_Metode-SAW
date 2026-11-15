@@ -14,7 +14,7 @@ ghudud
 njjkrhjejsghehuejsjjcj
 Data setiap orang dijsjdjsuajisaj dictidhofhuchhdjkfkkfkkfiff sbbeidiiierhhh
 xiixhshhhh
-```pythonGgshs
+```pythonGgshsdidiid
 data = {
     "Andi": {"cash": 100, "asset": 500, "age": 35},
     "Budi": {"cash": 200, "asset": 300, "age": 40},
