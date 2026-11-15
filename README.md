@@ -1,5 +1,5 @@
 idjdjdididdiididjdjddjdjfudhlllll
-Script Pini digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additiv
+Script P digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additiv
 | Asd
 2. LLLLJXJJDLLLLL
    V = (w_cash
