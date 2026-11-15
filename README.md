@@ -1,4 +1,4 @@
-idjdjdididdiididjdjddjdjfudhlllll
+idjdjdiididjdjddjdjfudhlllll
 Script P digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additiv
 | Asd
 2. LLLLJXJJDLLLLL
