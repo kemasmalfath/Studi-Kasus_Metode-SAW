@@ -1,4 +1,4 @@
-xnnxjxuuuisiisuhddjjdjdjdididdiididjdjddjdjfudhlllll
+xnnxjxuuuishddjjdjdjdididdiididjdjddjdjfudhlllll
 Script Python ini digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additiv
 | Asd
 2. LLLLJXJJDLLLLL
