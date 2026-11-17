@@ -12,7 +12,7 @@ Script P digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additi
 ghududdidiiddhuduud
 ## dnfnjgggfjjfjduiif
 njjkrhjejsghehuejsj
-Data setiap orang dijsjdj dictidhofhuchhdjkfkkfkkfiff sbbe
+Data setiap orang dijsjdjsdhudud dictidhofhuchhdjkfkkfkkfiff sbbe
 xiixhshhhhdujd
 ```pythonGgshsdidiid
 data = {
