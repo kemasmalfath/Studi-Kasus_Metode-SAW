@@ -8,7 +8,7 @@ Script P digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additi
 1. C
 2. 
 3. uuuu
-4. dyhfyf
+4. dyh
 ghududdidiiddhuduud
 ## dnfnjgggfjjfjduiif
 njjkrhjejsghehuejsjdhd
