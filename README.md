@@ -13,7 +13,7 @@ ghududdidiiddhuduud
 ## dnfnjgggfjjfjduiif
 njjkrhjejsghehuejsjdhd
 Data setiap orang dijsjdjs dictidhofhuchhdjkfkkfkkfiff sbbe
-xiixhshhhhd
+xiixhsh
 ```pythonGgshsdidiid
 data = {
     "Andi": {"cash": 100, "asset": 500, "age": 35},
