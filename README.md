@@ -13,7 +13,7 @@ ghududdidiiddhuud
 ## dnfnjgggfjjfjensnsban
 Data setiap orang dijsjffffffdddhxhxhx dictidhofhuchhdjkfkkfkkfjdlddd d
 ```pythonGgshsdidiid
-data = {ccc
+data = {cccdhhdhdh
     "Andi": {"cash": 100, "asset": 500, "age": 35},
     "Budi": {"cash": 200, "asset": 300, "age": 40},
     "Cici": {"cash": 150, "asset": 700, "age": 28},
