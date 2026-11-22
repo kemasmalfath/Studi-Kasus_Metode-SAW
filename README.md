@@ -9,7 +9,7 @@ Script P digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additi
 2. 
 3. uuuududuud
 4. dyhzhhxhd
-ghududdidiiddhuudyyu
+ghududdidiiddhuudyyudhhfhd
 ## dnfnjgggfjjfjensnsbandhjdjdhhhh
 Data setiap orang dijsjffffffdddhxhxhxjdjdjjdjdudd dictidhofhuchhdjkfkkfkkfjdlddd d
 ```pythonGgshsdidiid
