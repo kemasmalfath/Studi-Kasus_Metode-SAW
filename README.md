@@ -11,7 +11,7 @@ Script P digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Additi
 4. dyhzhhxhd
 ghududdidiiddhuudyyudhhfhdduhdud
 ## dnfnjgggfjjfjensnsbandhjdjdhhhh
-Data setiap orangddhhdud dijsjffffffdddhxhxhxjdjdjjdjdudd dictidhofhuchhdjkfkkfkkfjdlddd d
+Data setiap orangddhhdud dijsjffffffdddhxhxhxjdjdjjdj dictidhofhuchhdjkfkkfkkfjdlddd d
 ```pythonGgshsdidiid
 data = {cccdhhdhdh
     "Andi": {"cash": 100, "asset": 500, "age": 35},
