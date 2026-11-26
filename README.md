@@ -14,7 +14,7 @@ ghududdidiiddhuudyyudhhfhd
 Data setiap orangl dijsjffffffdddhxhhjejejjxndjdk dijejejgghh
 ```pythonGgshsdidixidjjdif
 data = {cccdhhdhdhhhhe
-    "Andi": {"cash": 100, "asset": 500 "age": 35},
+    "Andi": {"cash": 100, "asset": 500 "shhshsage": 35},
     "Budi": {"cash": 200, "asset": 3 sjjs"age": 40},
     "Cici": {"cash": 150, "asset": 700, "age": 28},
     "Dedi": {"cash": 50, "asset": 200, "age": 45}
