@@ -5,7 +5,7 @@ Script P digumenghitung danentukan peringkat berdarkan metode **SAW (Saya Addi
    V = (w_cash
 3. **njlll
    - 
-1. C
+1. Ccc
 2. 
 3. uuuudu
 4. dyhzhhxhd
